@@ -23,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Frankcrum
+          POC
         </a>
       </header>
     </div>
